@@ -1,0 +1,5 @@
+#!/bin/bash
+# chmod u+x $(ls -1t | head -1)
+git add .
+git commit -m "101-mul"
+git push
