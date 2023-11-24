@@ -1,0 +1,301 @@
+[33mcommit 0cf86bab522c03317e7050cc5de985e97160ab5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Nov 23 18:51:20 2023 -0800
+
+    readme
+
+[33mcommit f24191a85cc555431dcaa5143fdc62f87a73bd2b[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Oct 2 16:34:33 2023 -0700
+
+    all files 0 to 100
+
+[33mcommit 1610faf60efa97957d1cc221f471701df9672a5b[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Sat Sep 30 15:35:17 2023 -0700
+
+    all 0 to 100
+
+[33mcommit 748daba5bd61905a6ecfe07d4cdde1d438aa6f6c[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 28 17:40:25 2023 -0700
+
+    101-password
+
+[33mcommit 2123af9708d139f98cd5237ef27ab10efd3380f4[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 28 17:12:21 2023 -0700
+
+    From 2 to 100
+
+[33mcommit 12d45ade6016d6286eafe455beeb33819efa7cee[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 28 16:40:39 2023 -0700
+
+    1-print_binary
+
+[33mcommit 9ab788b65c3f9466ddbca239c1b4b781274055d5[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 28 16:36:52 2023 -0700
+
+    0-binary_to_uint
+
+[33mcommit 10ad2cd8c01187d4e5e9cdefe6b86324127de2e1[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 28 16:05:38 2023 -0700
+
+    0-binary_to_uint
+
+[33mcommit e47d9622732313b6a02a6e66c85d4f9627a9f061[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 25 16:37:48 2023 -0700
+
+    all
+
+[33mcommit 8c4ec3a93365a85ab6dcb30de014dbe5c678ae9d[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 25 15:57:57 2023 -0700
+
+    1 and 1
+
+[33mcommit 48b74fe3f730e0056db9b66cd8641f8b1be81ef9[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 25 15:09:31 2023 -0700
+
+    alx low level
+
+[33mcommit 041771bebb5c37dd34905529da24f092bef33f9b[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 14 17:17:51 2023 -0700
+
+    3-print_all
+
+[33mcommit 15c5b15d7b1e52b5dd7fcb27563942fb95ae282c[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 14 17:13:35 2023 -0700
+
+    2-print_strings
+
+[33mcommit 9e04f8314a8e8fad823177193e5ea9f0486bee77[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 14 17:07:13 2023 -0700
+
+    0-sum_them_all
+
+[33mcommit 98af06fe7d3383724ea03a23c8d21f43b179f45a[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 14 17:04:54 2023 -0700
+
+    1-print_numbers
+
+[33mcommit f144bdfb76b78eb83e86b0fa82a45ddb663f006f[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 14 16:57:56 2023 -0700
+
+    0-sum_them_all
+
+[33mcommit bd0f906290b878e0c3f69be97c9979ab44473650[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Tue Sep 12 22:32:24 2023 -0700
+
+    100-main_opcodes
+
+[33mcommit f12d0de826f0661c11b3f08494920f01b7dd0100[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Tue Sep 12 22:28:42 2023 -0700
+
+     goal is not always meant to be reached
+
+[33mcommit 3705545a0f88ed52f6a5cb967b56c2d43667adf4[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Tue Sep 12 22:13:35 2023 -0700
+
+    2-int_index
+
+[33mcommit e4a49758fdee1073ae1c1506a1df1dda82fd36b9[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Tue Sep 12 22:07:36 2023 -0700
+
+    1-array_iterator
+
+[33mcommit 9221b48137ceaa4b487d26caa81ee01352ee7d45[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Tue Sep 12 22:03:37 2023 -0700
+
+    0-print_name
+
+[33mcommit 02ee0bf3e6db2b05196a20a55c4ccff622ed55af[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:50:32 2023 -0700
+
+    5-free_dog
+
+[33mcommit 03bd28dfa74550c1d08653033c0fd0568ae7a229[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:44:22 2023 -0700
+
+    4-new_dog
+
+[33mcommit 86c0d3006c9c7023882d2ef7a628e73f3c728b8c[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:32:20 2023 -0700
+
+    3-main.c
+
+[33mcommit 3579a1f135eb980ecfc3af292bf118ab0f9a1473[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:28:56 2023 -0700
+
+    2-print_dog
+
+[33mcommit 1dfd26f6aee07c19233751ada61afb40f69507a1[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:24:57 2023 -0700
+
+    1-init_dog
+
+[33mcommit 6ce23d81e4ccde1e6427a278569a6f731da50228[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:21:55 2023 -0700
+
+    dog
+
+[33mcommit 1eee5a136c822eff6d484eb92c7d1cb4e086fd90[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:06:00 2023 -0700
+
+    4-sum
+
+[33mcommit d06be52d48e6ed59fd63481a8caa6f222bcc231e[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 15:03:07 2023 -0700
+
+    3-function_like_macro
+
+[33mcommit 81b457762522c3c0c884f8cc26343eff7c4423e0[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 14:59:26 2023 -0700
+
+    2-main
+
+[33mcommit d9d43dc4297978155a400f4d29c63f225c119b58[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 14:54:07 2023 -0700
+
+    1-pi
+
+[33mcommit 0dddd42194926c8aa9e178300d4c483ddf91ce0d[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 11 14:49:48 2023 -0700
+
+    0-object_like_macro
+
+[33mcommit 072a37152ed55b7f3096c464340ccbac0e4ff279[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Sun Sep 10 09:52:35 2023 -0700
+
+    0-main
+
+[33mcommit 137a99d8ebb9cfe2ef396778bbbe8c6e6aa48039[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 7 11:17:29 2023 -0700
+
+    101-mul
+
+[33mcommit 5965740b077fcb8bd1296009ec6dfd2f34c30ad0[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 7 11:00:02 2023 -0700
+
+    100-realloc
+
+[33mcommit ee115043aed47e9f18ebc4b33671090afb9c70a3[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 7 10:56:32 2023 -0700
+
+    3-array_range
+
+[33mcommit 2cd7fe520b6384002633c93812f40fcde23fba13[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 7 10:51:23 2023 -0700
+
+    2-calloc
+
+[33mcommit f027f14d71ac37363e525a9cf5163fee5a5b568b[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 7 10:41:24 2023 -0700
+
+    1-string_nconcat
+
+[33mcommit f2fdb8d09be3a29ac4c33fdbdb3a5074a7ba1ddd[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Thu Sep 7 10:37:58 2023 -0700
+
+    0-malloc_checked
+
+[33mcommit a15b2b8a40aa3d4413ea7a506371784614043c6c[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 10:32:17 2023 -0700
+
+    101-strtow
+
+[33mcommit ea60d9db5f162143d6244dd0b663ee9e35fc0e6a[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 10:29:18 2023 -0700
+
+    100-argstostr
+
+[33mcommit fca91ad8d878f8d3f67efc1b4a4266f10514dac5[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 10:25:04 2023 -0700
+
+    4-free_grid
+
+[33mcommit e8bc5f6e8747acdc07c28eddaddd76ddf9bf5c3e[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 10:21:39 2023 -0700
+
+    3-alloc_grid
+
+[33mcommit 78314c449af68f9cbe7f7b57ae9532179d8007bd[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 10:19:03 2023 -0700
+
+    2-str_concat
+
+[33mcommit 9ef2a06d1cd648015ca2b15d2d7d493aa5da42c4[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 09:48:13 2023 -0700
+
+    1-strdup
+
+[33mcommit d8b0de94635cd151de952a8e14c1d3bf54d28025[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 09:42:44 2023 -0700
+
+    0-create_array
+
+[33mcommit 19e865cd0913be05f25dba4a2a07a8a089d38aac[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Mon Sep 4 09:32:18 2023 -0700
+
+    My first commit
+
+[33mcommit c6c545f10dc2add14310dd099e0ab87d18bd77b3[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Fri Sep 1 14:17:14 2023 -0700
+
+    100-change
+
+[33mcommit e6c52624c7a88c31231d7e133063f3602c45f77a[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Fri Sep 1 14:15:36 2023 -0700
+
+    4-add
+
+[33mcommit ac6aded1ac53624e17c70b0b66753e04c2bbe046[m
+Author: jeanbaptiste01 <muhayejean7@gmail.com>
+Date:   Fri Sep 1 14:13:34 2023 -0700
+
+    3-mul
+
+[33mcommit 0e8c0ddf4eb33eceac17a5c902fd04980e7a41bc
